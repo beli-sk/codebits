@@ -9,3 +9,4 @@ under user `bitcoind` (configurable through /etc/defaults/bitcoind).
 With a custom action `command` for sending commands to the daemon,
 e.g. `service bitcoind command getinfo`
 
+LSB standard init script format, tested on Debian Jessie.
